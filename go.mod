@@ -1,4 +1,4 @@
-module 2fa
+module github.com/shamnad-sherief/2fa
 
 go 1.16
 
